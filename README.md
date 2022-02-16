@@ -14,4 +14,5 @@ Playing with lua and Neovim 😀
 ## 🧮 Useless statistics
 
 [![gbprod's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbprod&show_icons=true&count_private=true)](https://github.com/gbprod)
-[![gbprod's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbprod&langs_count=8)](https://github.com/gbprod)
+
+[![gbprod's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbprod&langs_count=8&layout=compact)](https://github.com/gbprod)
