@@ -10,12 +10,19 @@
 
 ## 💼 Things I am doing
 
-Working at [Mediapart](https://www.mediapart.fr) as PHP developer.
-
+Working at [Mediapart](https://www.mediapart.fr) as PHP developer.  
 Playing with lua and Neovim 😀
+
+My Neovim Plugins:
+
+ - [substitute.nvim](https://github.com/gbprod/substitute.nvim)
+ - [yanky.nvim](https://github.com/gbprod/yanky.nvim)
+ - [cutlass.nvim](https://github.com/gbprod/cutlass.nvim)
+ - [stay-in-place.nvim](https://github.com/gbprod/stay-in-place.nvim)
+ - [phpactor.nvim](https://github.com/gbprod/phpactor.nvim)
+
 
 ## 🧮 Useless statistics
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbprod&theme=nord_dark)](https://github.com/gbprod/)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gbprod&theme=nord_dark)](https://github.com/gbprod/) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gbprod&theme=nord_dark)](https://github.com/gbprod/)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gbprod&theme=nord_dark)](https://github.com/gbprod/) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gbprod&theme=nord_dark)](https://github.com/gbprod/)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gbprod&theme=nord_dark)](https://github.com/gbprod/) [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gbprod&theme=nord_dark)](https://github.com/gbprod/)/)
