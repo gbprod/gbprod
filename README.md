@@ -18,7 +18,7 @@ My prefered packages:
  - [substitute.nvim](https://github.com/gbprod/substitute.nvim)
  - [yanky.nvim](https://github.com/gbprod/yanky.nvim)
  - [cutlass.nvim](https://github.com/gbprod/cutlass.nvim)
- - [tree-sitter-twig](https://github.com/tree-sitter-twig)
+ - [tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig)
  - [stay-in-place.nvim](https://github.com/gbprod/stay-in-place.nvim)
  - [phpactor.nvim](https://github.com/gbprod/phpactor.nvim)
 
